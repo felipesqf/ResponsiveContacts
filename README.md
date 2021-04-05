@@ -32,7 +32,7 @@ License under the [MIT License](LICENSE)
 
 ### Link to the Website
 
-[Employee Directory](https://felipesqf.github.io/ResponsiveContacts/)
+[My Contacts](https://felipesqf.github.io/ResponsiveContacts/)
 
 ## Authors
 
