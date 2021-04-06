@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ResponsiveContacts/static/css/main.975b22ff.chunk.css",
-    "main.js": "/ResponsiveContacts/static/js/main.bdae6180.chunk.js",
-    "main.js.map": "/ResponsiveContacts/static/js/main.bdae6180.chunk.js.map",
+    "main.js": "/ResponsiveContacts/static/js/main.04d9b76f.chunk.js",
+    "main.js.map": "/ResponsiveContacts/static/js/main.04d9b76f.chunk.js.map",
     "runtime-main.js": "/ResponsiveContacts/static/js/runtime-main.ac6d6a28.js",
     "runtime-main.js.map": "/ResponsiveContacts/static/js/runtime-main.ac6d6a28.js.map",
     "static/css/2.491e0953.chunk.css": "/ResponsiveContacts/static/css/2.491e0953.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.491e0953.chunk.css",
     "static/js/2.8c3519ea.chunk.js",
     "static/css/main.975b22ff.chunk.css",
-    "static/js/main.bdae6180.chunk.js"
+    "static/js/main.04d9b76f.chunk.js"
   ]
 }
