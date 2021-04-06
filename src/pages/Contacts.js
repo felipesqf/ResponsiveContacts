@@ -33,20 +33,6 @@ class Search extends Component {
     let filteredContacts = storedContacts.filter(letter => letter.name.includes(value))
     this.setState({ results: filteredContacts });
   };
-
-  //Sort Contactds
-  // sortContacts = () => {
-  //   let storedContacts = JSON.parse(localStorage.getItem("Contacts"));
-  //   const sorted = storedContacts.sort(function(a, b) {
-  //       if(a.name.toLowerCase() < b.name.toLowerCase()) return -1;
-  //       if(a.name.toLowerCase() > b.name.toLowerCase()) return 1;
-  //       return 0;
-  //      })
-  //   this.setState({ results: sorted });
-  // }
-
-
-  
 //Render on the screen
   render() {
     return (
